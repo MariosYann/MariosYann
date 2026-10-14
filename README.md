@@ -73,7 +73,6 @@ After transitioning from building personal projects to working on real-world pro
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariosYann&theme=radical"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MariosYann&theme=radical&utcOffset=2"/>
 </p>
 
 ### 📫 Connect with me:
