@@ -63,10 +63,6 @@ After transitioning from building personal projects to working on real-world pro
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MariosYann&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariosYann&theme=radical" alt="GitHub Streak" />
 </p>
 
